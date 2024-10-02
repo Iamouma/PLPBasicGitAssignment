@@ -1,4 +1,4 @@
-# PLPBasicGitAssignment
+# PLPBasicGitAssignment.
 
  Local Setup
 
